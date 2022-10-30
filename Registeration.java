@@ -2,8 +2,8 @@ import java.util.*;
 class Registeration{
 	public static void main(String[] args){
 		String email,password;
-		String[][] userinfo = { {"hanzala@gmail.com","00000000"}, {"bilal@hotmail.com","11111111"},{"choudry@yahoo.com","22222222"},
-        {"danish@gmail.com","33333333"},{"fakhir@gmail.com", "44444444"}};
+		String[][] userinfo = { {"uoeuauo@gmail.com","uoeauoeu"}, {"oeueauoeu@hotmail.com","oeuoeuoeu"},{"eoauuoau@yahoo.com","uoeauoaeuoe"},
+        {"uoaeuoeu@gmail.com","oeuoeuoeu"},{"oeuoaueoau@gmail.com", "oaueuoeu"}};
 
             System.out.println("welcome to pakistan ARMY'S WEBSITE ");
 			Scanner obj = new Scanner(System.in);
